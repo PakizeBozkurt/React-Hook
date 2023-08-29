@@ -15,7 +15,7 @@ Click the "+" button to increase the count and the "-" button to decrease it.
 
 ## Deployment
 
-This app has been deployed using [Netlify](https://www.netlify.com/). You can access the live version [here]([(https://my-react-hook.netlify.app/)](https://my-react-hook.netlify.app/)).
+This app has been deployed using [Netlify](https://www.netlify.com/). You can access the live version [here](https://my-react-hook.netlify.app/) .
 
 ## About
 
